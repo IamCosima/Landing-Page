@@ -38,7 +38,11 @@ background-color: #1F2937;
     background-color: gray;
 }
 
-
+.information-header{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
 .quote-container{
     background-color: #E5E7EB;
     font-size: 36px;
