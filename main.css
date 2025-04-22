@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body{
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    font-family: Roboto, sans-serif;
+}
+
+
+button{
+    background-color: #3882F6;
+}
+
+
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.header{
+background-color: #1F2937;
+
+}
+
+.Hero-main{
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+.Hero-secondary{
+    font-size: 18px;
+    color: #E5E7EB;
+
+}
+.imgcontainer{
+    width: 250px;
+    height: 250px;
+    background-color: gray;
+}
+
+
+.quote-container{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937;
+}
+.callto-container{
+    background-color: #3882F6;
+}
+
+.footer{
+    background-color: #1F2937;
+}
